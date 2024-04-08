@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginPageTask</string>
+    <string name="buy_and_sell_anything_">Buy and sell Anything Faster\nwith the Chunky app</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="log_in_to_your_account">Log In to your account</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="forgotten_password">Forgotten password?</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an Account? Sign Up</string>
+    <string name="welcome">Welcome</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_phone_number">Email/Phone Number</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
